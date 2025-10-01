@@ -1,0 +1,6 @@
+John Doe-Deposited: 500.0
+John Doe-Withdrew: 200.0
+John Doe-Checked balance: 1300.0
+John Doe-Deposited: 500.0
+John Doe-Withdrew: 200.0
+John Doe-Checked balance: 1300.0
